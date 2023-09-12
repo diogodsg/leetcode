@@ -30,5 +30,3 @@ function threeSumClosest(nums: number[], target: number): number {
 
   return closest;
 }
-
-console.log(threeSumClosest([4, 0, 5, -5, 3, 3, 0, -4, -5], -2));
